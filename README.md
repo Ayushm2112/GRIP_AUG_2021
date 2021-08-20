@@ -7,4 +7,4 @@ Hello everyone! Hope you all are doing well. I am Ayush Mishra currently working
 
 3.No Login Page. No User Creation. Only transfer of money between multiple users.
 
-4.Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab. The repository contains all the details of the website. #GRIPJUN21 #TheSparksFoundation
+4.Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab. The repository contains all the details of the website. #GRIPAUG21 #TheSparksFoundation
